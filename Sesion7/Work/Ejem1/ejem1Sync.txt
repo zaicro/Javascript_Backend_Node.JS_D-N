@@ -1,0 +1,2 @@
+Este es el contenido de mi archivo sincrono
+Esto es una nueva línea
