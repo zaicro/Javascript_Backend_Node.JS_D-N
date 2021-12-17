@@ -1,0 +1,27 @@
+{
+    "name": "repaso",
+    "version": "1.0.0",
+    "description": "",
+    "main": "compact.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@babel/cli": "^7.16.0",
+        "@babel/core": "^7.16.0",
+        "@babel/preset-env": "^7.16.0",
+        "babel-jest": "^27.3.1",
+        "babel-loader": "^8.2.3",
+        "jest": "^27.3.1"
+    },
+    "jest": {
+        "collectCoverage": true,
+        "coverageReporters": ["html"],
+        "transform": {
+            "^.+\\.jsx?$": "babel-jest"
+        }
+    }
+}
