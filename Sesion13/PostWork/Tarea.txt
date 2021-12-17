@@ -1,0 +1,4 @@
+Cors: Permite compartir recursos de forma segura, mediante la validación de dominios. esto permite que ciertos recursos solo se entreguen si este 'dominio' está en la lista de dominios permitidos.
+Helmet: Es una colección de funciones que permite establecer cabeceras de seguridad tales como prevención en la ejecución de scripts entre sitios, inhabilitar el almacenamiento en cache, etc.
+JWT: Es un estándar para la generación de un token seguro, dicho token está compuesto por Encabezamiento, Carga útil, Firma. lo cual permite el envió de información segura entre partes y la integridad de esta.
+
