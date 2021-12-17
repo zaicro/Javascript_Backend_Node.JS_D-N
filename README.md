@@ -1,5 +1,4 @@
-Sesion(n)
- - PostWork: contiene los ejercicions o retos propuesto
+- PostWork: contiene los ejercicios o retos propuesto
 	- \Sesion1\PostWork
 	- \Sesion2\PostWork
 	- \Sesion3\PostWork
@@ -10,4 +9,4 @@ Sesion(n)
 	- \Sesion9\PostWork
 	- \Sesion13\PostWork
  - Woorks: Contiene lo visto en clase
- - Tienda Online: La ultima version esta en la sesion 14
+ - Tienda Online: La última versión está en la sesión 14
