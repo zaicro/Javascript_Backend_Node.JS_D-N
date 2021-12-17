@@ -1,0 +1,10 @@
+{
+    "development": {
+        "username": "anmartinez",
+        "password": "D1chter1234.",
+        "database": "ecommerce_api",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "dialect": "mariadb"
+    }
+}
